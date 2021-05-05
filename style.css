@@ -1,0 +1,32 @@
+.bodyMain{
+display: flex;
+background-color: black;
+color: blue;
+height: 600px;
+
+}
+
+.section1{
+
+   align-items: center;
+
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    height: 100px;
+    background-color: rgb(187, 187, 8);
+    
+}
+
+.button{
+    position: absolute;
+    font-style: italic;
+    line-height: 2em;;
+    width: 100px;
+    top: 200px;
+    left: 650px;
+    background-color: #000000;
+    height: 100px;
+    color: cornsilk;
+
+}
